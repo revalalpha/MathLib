@@ -1,2 +1,5 @@
-.vs/
-*.opendb
+build/*
+.vs/*
+x64/*
+*.filters
+*.user
